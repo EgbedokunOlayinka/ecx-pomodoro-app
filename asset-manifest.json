@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecx-pomodoro-app/static/css/main.d0251838.chunk.css",
+    "main.css": "/ecx-pomodoro-app/static/css/main.5cd2deac.chunk.css",
     "main.js": "/ecx-pomodoro-app/static/js/main.7e695fa8.chunk.js",
     "main.js.map": "/ecx-pomodoro-app/static/js/main.7e695fa8.chunk.js.map",
     "runtime-main.js": "/ecx-pomodoro-app/static/js/runtime-main.503c37e2.js",
@@ -8,15 +8,15 @@
     "static/js/2.78476d52.chunk.js": "/ecx-pomodoro-app/static/js/2.78476d52.chunk.js",
     "static/js/2.78476d52.chunk.js.map": "/ecx-pomodoro-app/static/js/2.78476d52.chunk.js.map",
     "index.html": "/ecx-pomodoro-app/index.html",
-    "precache-manifest.441d1f79667d89ce825543f8cd627972.js": "/ecx-pomodoro-app/precache-manifest.441d1f79667d89ce825543f8cd627972.js",
+    "precache-manifest.e653dbe2fd80a2b1c9f2ec7f2172dd09.js": "/ecx-pomodoro-app/precache-manifest.e653dbe2fd80a2b1c9f2ec7f2172dd09.js",
     "service-worker.js": "/ecx-pomodoro-app/service-worker.js",
-    "static/css/main.d0251838.chunk.css.map": "/ecx-pomodoro-app/static/css/main.d0251838.chunk.css.map",
+    "static/css/main.5cd2deac.chunk.css.map": "/ecx-pomodoro-app/static/css/main.5cd2deac.chunk.css.map",
     "static/js/2.78476d52.chunk.js.LICENSE.txt": "/ecx-pomodoro-app/static/js/2.78476d52.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.503c37e2.js",
     "static/js/2.78476d52.chunk.js",
-    "static/css/main.d0251838.chunk.css",
+    "static/css/main.5cd2deac.chunk.css",
     "static/js/main.7e695fa8.chunk.js"
   ]
 }
