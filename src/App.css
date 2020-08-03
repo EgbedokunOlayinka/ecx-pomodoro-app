@@ -124,6 +124,7 @@ button:disabled {
   .container {
       width: 95%;
       padding: 1rem 1rem;
+      margin: 1.5rem auto;
   }
 
   .container-divs {
@@ -145,7 +146,7 @@ button:disabled {
 @media(max-width: 349px) {
   .container {
       padding: 1rem .5rem;
-      margin: 3rem auto;
+      
   }
 
   .length-div {
